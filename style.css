@@ -67,7 +67,8 @@ position:relative}
 }
 .about{    font-size: 35px;
     font-family: 'Cinzel', serif;
-    color: yellow;}
+    color: yellow;
+margin-left:-55px}
 .buttons{
     margin-top: 35px;
 }
@@ -237,7 +238,7 @@ width:70vw}
         margin-top: -36px;
         border-radius:60px;
         align-self: center;
-        margin-left: 350px;
+        margin-left: 227px;
     margin-right: -560px;
 
     }
