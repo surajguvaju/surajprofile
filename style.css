@@ -210,6 +210,8 @@ width:70vw}
               }
               .gallery{flex-direction:column ;
                   display: flex;
+                 width:100vw;
+                 height:300vh;
                  
                   
                   margin-top: 80px;
